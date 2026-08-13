@@ -167,12 +167,6 @@ End-to-end SaaS ecosystems combining mobile, web, backend, real-time communicati
 
 ---
 
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
-</p>
-
 
 ## 🤝 Let's Connect
 
