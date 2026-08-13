@@ -64,56 +64,6 @@ I enjoy turning complex requirements into **reliable, maintainable, and high-per
 
 ---
 
-## 💼 Professional Experience
-
-### 🏢 Freelance Software Engineer
-
-**Jul 2023 – Present**
-
-* Architecting and developing complete **mobile + web ecosystems**
-* Working across **Flutter, React, Next.js & Laravel**
-* Building large-scale SaaS platforms
-* Developing real-time communication and automated workflows
-* Building PDF engines and reporting tools
-* Integrating Firebase-powered modules
-* Designing secure REST APIs
-* Optimizing backend performance
-* Reduced API response time by approximately **35%**
-* Implemented CI/CD pipelines for automated deployments
-
-### 🏢 Software Engineer — Surge Global
-
-**Apr 2022 – May 2023**
-
-* Developed modular Flutter architectures
-* Built reusable Flutter packages
-* Integrated Firebase Auth, Firestore, Analytics & Crashlytics
-* Developed scalable backend services and APIs
-* Implemented CI/CD pipelines for mobile deployments
-* Worked closely with QA and UI/UX teams to improve application performance
-
-### 🏢 Software Engineer — CodeVita
-
-**Feb 2020 – Jul 2022**
-
-* Built mobile applications using Flutter + Laravel
-* Developed React.js applications
-* Designed and developed RESTful APIs
-* Optimized backend logic and application performance
-* Improved UI/UX workflows
-* Mentored junior developers and performed code reviews
-* Worked directly with clients to translate requirements into technical solutions
-
-### 🏢 Associate Software Engineer — Invicta Innovations
-
-**Jan 2019 – Feb 2020**
-
-* Developed full-stack applications using Node.js and React.js
-* Participated in deployments and application testing
-* Built a strong foundation in full-stack software development
-
----
-
 ## 📊 Engineering Focus
 
 ```text
